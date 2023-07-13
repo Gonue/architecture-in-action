@@ -1,5 +1,7 @@
 # Ch01
 
+## 사용자 수에 따른 규모 확장성
+
 ### 단일 서버
 
 ![image](https://github.com/Gonue/architecture-in-action/assets/109960034/db4e6a18-38ce-415c-bd52-6b1a6fcb9b0c)
